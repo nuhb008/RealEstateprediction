@@ -1,3 +1,5 @@
 Flask==1.0.2
 numpy==1.16.2
 scikit-learn==0.20.3
+gunicorn==22.0.0
+setuptools==69.5.1
