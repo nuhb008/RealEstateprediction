@@ -148,7 +148,7 @@ curl -X POST http://127.0.0.1:5000/predict \
 ## Customization
 
 - **Dataset**:
-  Replace `real_estate_data.csv` with your dataset and update the preprocessing logic in `utils.py` accordingly.
+  Replace `Bengaluru_house_data.csv` with your dataset and update the preprocessing logic in `utils.py` accordingly.
 
 - **Model**:
   Experiment with different machine learning algorithms or hyperparameters to improve accuracy.
